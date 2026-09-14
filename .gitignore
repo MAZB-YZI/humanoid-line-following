@@ -1,0 +1,14 @@
+*.uvopt
+*.uvoptx
+*.uvguix.*
+*.o
+*.d
+*.crf
+*.lst
+*.axf
+*.hex
+*.bin
+obj/
+Objects/
+Listings/
+.idea/
